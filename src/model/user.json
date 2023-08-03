@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Eshmat",
+    "age": 23,
+    "price": 23000
+  },
+  {
+    "id": 2,
+    "name": "Toshmat",
+    "age": 29,
+    "price": 33000
+  },
+  {
+    "id": 3,
+    "name": "Olim",
+    "age": 29,
+    "price": 33000
+  },
+  {
+    "id": 4,
+    "name": "Odil",
+    "age": 29,
+    "price": 33000
+  }
+]
